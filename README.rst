@@ -1,5 +1,12 @@
+==============
 PHP en Español
 ==============
+
+:Autores: 
+    Renich Bon Ciric <renich@woralelandia.com>
+
+:Licencia: 
+    FDL_ 1.3 o >
 
 
 Descripción
