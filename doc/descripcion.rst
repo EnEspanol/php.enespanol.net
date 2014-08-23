@@ -34,6 +34,8 @@ PHP en Español será un sitio que contribuya al crecimiento, mejoramiento y des
 El sitio, compuesto por miembros de su comunidad, será el centro; en el cual se congregará la comunidad para colaborar en la
 generación de material didáctico y educativo.
 
+Por lo pronto
+
 
 .. Links
 .. _FDL: http://www.gnu.org/licenses/fdl.txt
