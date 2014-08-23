@@ -41,9 +41,6 @@ Una vez instalado este paquete; para crear los PDF, solo necesitas correr el com
 Luego, los archivos PDF serán creados en la carpeta doc.
 
 
-Autores
--------
-* Renich Bon Ciric <renich aroba woralelandia punto com>
-
 .. Links
+.. _FDL: http://www.gnu.org/licenses/fdl.txt
 .. _rst2pdf: https://code.google.com/p/rst2pdf/
