@@ -1,6 +1,6 @@
-====================
-Descripción General
-====================
+==========
+Manifiesto
+==========
 ------------------------------------------------------
 Una descripción general de lo que será PHP en Español
 ------------------------------------------------------
@@ -34,7 +34,29 @@ PHP en Español será un sitio que contribuya al crecimiento, mejoramiento y des
 El sitio, compuesto por miembros de su comunidad, será el centro; en el cual se congregará la comunidad para colaborar en la
 generación de material didáctico y educativo.
 
-Por lo pronto
+
+Contenido
+---------
+El contenido del sitio será contenido estríctamente en español. Además, todo relacionado con el lenguaje de programación PHP.
+
+Además, el contenido nunca será guiado por intereses económicos; patrocinadores, promotores o demás terceros; siempre será
+no-comercial y el interés será meramente técnico y vanguardista.
+
+El formato del contenido no ha sido definido todavía.
+
+
+Auto sustentable
+----------------
+El sitio deberá encontrar la forma de ser auto-sustentable. Es decir, que tenga la manera de sostenerse económicamente a sí mismo;
+para que no dependa de la buena fé de sus fundadores.
+
+Dicho ésto, el sitio siempre será 100% gratuito; en su totalidad, para los usuarios. Nunca habrá contenido extra o contenido con
+costo. Todo será contenido libre; destinado al crecimiento y el engrandecimiento del conocimiento.
+
+
+Anti-marketing
+--------------
+El sitio tendrá un afilosofía de anti-marketing o marketing sincero; haciendo.
 
 
 .. Links
