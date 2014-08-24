@@ -91,4 +91,3 @@ Secciones
 .. Configuración
 .. footer::
     PHP en Español | |year| | ###Title### - pag. ###Page###
-
