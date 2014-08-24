@@ -56,7 +56,8 @@ costo. Todo será contenido libre; destinado al crecimiento y el engrandecimient
 
 Anti-marketing
 --------------
-El sitio tendrá un afilosofía de anti-marketing o marketing sincero; haciendo.
+El sitio tendrá un afilosofía de anti-marketing o marketing sincero; haciendo marketing para promover sinceramente el sitio; basado
+en su utilidad y valor técnico y no en convencer al mayor número de personas de nada.
 
 
 .. Links
