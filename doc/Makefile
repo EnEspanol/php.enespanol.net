@@ -1,16 +1,16 @@
-# rst2pdf style
-LANGUAGE='es'
-STYLE='manni'
+# estilos de rst2pdf
+LENGUAJE='es'
+ESTILO='manni'
 
-all: clean build
+all: limpiar compilar
 
-build: check
+compilar: checar
 	@echo 'building...'
-	@for f in *.rst; do rst2pdf -l ${LANGUAGE} -s ${STYLE} $$f; done
+	@for f in *.rst; do rst2pdf -l ${LENGUAJE} -s ${ESTILO} $$f; done
 
-clean:
+limpiar:
 	@rm -f *.pdf
 
-check:
-	@echo 'checking if rst2pdf is present...'
-	@which rst2pdf &> /dev/null && exit 0 || echo 'you need to install rst2pdf to continue.' && exit 1
+checar:
+	@echo 'revisando si rst2pdf está presente...'
+	@which rst2pdf &> /dev/null && exit 0 || echo 'Error: necesitas instalar rst2pdf en tu sistema.' && exit 1
