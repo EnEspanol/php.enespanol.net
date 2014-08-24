@@ -44,6 +44,8 @@ no-comercial y el interés será meramente técnico y vanguardista.
 
 El formato del contenido no ha sido definido todavía.
 
+Enseñamos conceptos; no herramientas.
+
 
 Auto sustentable
 ================
