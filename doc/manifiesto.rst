@@ -36,7 +36,7 @@ generación de material didáctico y educativo.
 
 
 Contenido
----------
+=========
 El contenido del sitio será contenido estríctamente en español. Además, todo relacionado con el lenguaje de programación PHP.
 
 Además, el contenido nunca será guiado por intereses económicos; patrocinadores, promotores o demás terceros; siempre será
@@ -46,7 +46,7 @@ El formato del contenido no ha sido definido todavía.
 
 
 Auto sustentable
-----------------
+================
 El sitio deberá encontrar la forma de ser auto-sustentable. Es decir, que tenga la manera de sostenerse económicamente a sí mismo;
 para que no dependa de la buena fé de sus fundadores.
 
@@ -55,7 +55,7 @@ costo. Todo será contenido libre; destinado al crecimiento y el engrandecimient
 
 
 Anti-marketing
---------------
+==============
 El sitio tendrá un afilosofía de anti-marketing o marketing sincero; haciendo marketing para promover sinceramente el sitio; basado
 en su utilidad y valor técnico y no en convencer al mayor número de personas de nada.
 
