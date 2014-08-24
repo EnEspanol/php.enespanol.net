@@ -35,13 +35,16 @@ en ella.
 
 Políticas
 =========
+Las políticas están en órden alfabético; sin particular orden de importancia.
 
 #. Claridad por encima de la complejidad.
 #. Comunidad antes que el individuo.
 #. Conceptos por encima de herramientas.
 #. Innovación por encima de comodidad.
 #. Licencias libres por encima de licencias privativas.
+#. Nuestro idioma antes que cualquier otro.
 #. Seguridad por encima de conveniencia.
+#. Simplicidad por encima de complejidad.
 #. Software libre por encima de software privativo.
 
 
