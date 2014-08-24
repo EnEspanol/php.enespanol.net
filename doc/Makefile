@@ -6,10 +6,10 @@ all: clean build
 
 build: check
 	@echo 'building...'
-	@for f in doc/*.rst; do rst2pdf -l ${LANGUAGE} -s ${STYLE} $$f; done
+	@for f in *.rst; do rst2pdf -l ${LANGUAGE} -s ${STYLE} $$f; done
 
 clean:
-	@rm -f doc/*.pdf
+	@rm -f *.pdf
 
 check:
 	@echo 'checking if rst2pdf is present...'
