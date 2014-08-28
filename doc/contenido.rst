@@ -64,6 +64,7 @@ Secciones
     - Desplegados
     - Instalación
 * *AJAX*?
+* Fragmentos de Código
 * Frameworks
 * Paradigmas
     - Agile
