@@ -42,7 +42,6 @@ escribir varios artículos específicos que un solo artículo global.
 
 Tipos de contenido
 ==================
-
 *Artículo:*
     Una publicación que abordará un tema específico; delimitando su uso, utilidad y relevancia. 
 
@@ -57,13 +56,13 @@ Tipos de contenido
 
 Secciones
 =========
-
 * Administración de Sistemas
     - Automatización
     - Configuración
     - Desplegados
     - Instalación
 * *AJAX*?
+* APIs
 * Fragmentos de Código
 * Frameworks
 * Paradigmas
@@ -79,7 +78,7 @@ Secciones
     - Plataforma
     - Inyección de código
     - XSS
-* APIs
+
 
 .. Links
 .. _FDL: http://www.gnu.org/licenses/fdl.txt
